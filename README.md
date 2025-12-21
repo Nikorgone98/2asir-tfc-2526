@@ -34,6 +34,12 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [Video final](https://)
   
+
+## ⏰ Cuadrante horario de las exposiciones
+
+La fecha y hora de exposición del alumnado se comunicará a través de este canal. La duración de cada exposición será de **15 minutos** (10 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. El alumnado deberá llegar con tiempo 
+suficiente a su presentación.
+
 ## 📝 Fechas a tener en cuenta para exponer en la 1ª evaluación
 * Anteproyecto: **27 de octubre de 2025**
 * Revisión (checkpoint): **10 de noviembre de 2025**
@@ -41,17 +47,43 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * Entrega de proyecto: **15 de diciembre de 2025**
 * Exposiciones: **17 de diciembre de 2025**
 
-## ⏰ Cuadrante horario de las exposiciones
+#### :calendar: miércoles 17 de diciembre de 2025
 
-La fecha y hora de exposición del alumnado se comunicará a través de este canal. La duración de cada exposición será de **15 minutos** (10 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. El alumnado deberá llegar con tiempo 
+- [ ] 18:00h **Sistema de Gestión de Reservas - Autos Costa Sol** - Juan Carlos García Calvo
 
-## 📝 Fechas a tener en cuenta para exponer en la 3ª evaluación
-* Anteproyecto: **7 de abril de 2025**
-* Revisión (checkpoint): **4 de mayo de 2025**
-* Segunda Revisión (2º checkpoint): **5 de junio de 2025**
-* Entrega de proyecto: **13 de junio de 2025**
-* Exposiciones: **16 de junio de 2025**
+## 📝 Fechas a tener en cuenta para exponer en la 2ª evaluación
+* Anteproyecto: **xx de enero de 2026**
+* Revisión (checkpoint): **xx de febrero de 2026**
+* Segunda Revisión (2º checkpoint): **xx de febrero de 2026**
+* Entrega de proyecto: **xxz de marzo de 2026**
+* Exposiciones: **xx de marzo de 2026**
 
-## ⏰ Cuadrante horario de las exposiciones
+#### :calendar: lunes 16 de junio de 2025
 
-La fecha y hora de exposición del alumnado se comunicará a través de este canal. La duración de cada exposición será de **15 minutos** (10 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. El alumnado deberá llegar con tiempo 
+- [ ] 08:30h **Proyecto xx** - Alumno xx
+- [ ] 08:50h **Proyecto xx** - Alumno xx
+- [ ] 09:10h **Proyecto xx** - Alumno xx
+
+---
+## Guía para la presentación - apartados de la presentación
+
+* 0. Presentación
+* 1. Nombre del proyecto
+* 2. Objetivos del proyecto
+* 3. Tecnologías utilizadas
+* 4. Justificación de las tecnologías (en caso de que no sean las propuestas en la wiki de proyecto)
+* 5. Reparto de tareas (si es un grupo)
+* 6. Breve demostración de uso.
+* 7. Dificultades encontradas
+* 8. Posibles mejoras
+* 9. Conclusión
+
+---
+
+## :school: Lugar de las exposiciones
+
+Las presentaciones tendrán lugar en el **salón de actos** del [**CPIFP Alan Turing**](https://maps.app.goo.gl/JThz6bDRVpknfbNh7) sito en C/ Frederik Termann, 3. 29590, Málaga TechPark, Campanillas, Málaga.
+
+Mapa ubicación             | 
+:-------------------------:|
+<a href="https://maps.app.goo.gl/JThz6bDRVpknfbNh7" target="_blank"><img src="https://github.com/CPIFPAlanTuring/2daw-tfc-2324/blob/main/CPIFP_mapa_ubicación.png" width="350" /></a> 
