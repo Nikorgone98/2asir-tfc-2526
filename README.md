@@ -52,17 +52,17 @@ suficiente a su presentación.
 - [ ] 18:00h **Sistema de Gestión de Reservas - Autos Costa Sol** - Juan Carlos García Calvo
 
 ## 📝 Fechas a tener en cuenta para exponer en la 2ª evaluación
-* Anteproyecto: **xx de enero de 2026**
-* Revisión (checkpoint): **xx de febrero de 2026**
-* Segunda Revisión (2º checkpoint): **xx de febrero de 2026**
-* Entrega de proyecto: **xxz de marzo de 2026**
-* Exposiciones: **xx de marzo de 2026**
+* Anteproyecto: **26 de enero de 2026**
+* Revisión (checkpoint): **16 de febrero de 2026**
+* Segunda Revisión (2º checkpoint): **02 de marzo de 2026**
+* Entrega de proyecto: **13 de marzo de 2026**
+* Exposiciones: **17 de marzo de 2026**
 
 #### :calendar: lunes 16 de junio de 2025
 
-- [ ] 08:30h **Proyecto xx** - Alumno xx
-- [ ] 08:50h **Proyecto xx** - Alumno xx
-- [ ] 09:10h **Proyecto xx** - Alumno xx
+- [ ] 09:00h **Proyecto xx** - Alumno xx
+- [ ] 09:20h **Proyecto xx** - Alumno xx
+- [ ] 09:50h **Proyecto xx** - Alumno xx
 
 ---
 ## Guía para la presentación - apartados de la presentación
