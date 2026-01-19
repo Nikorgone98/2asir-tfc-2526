@@ -52,7 +52,7 @@ suficiente a su presentación.
 - [ ] 18:00h **Sistema de Gestión de Reservas - Autos Costa Sol** - Juan Carlos García Calvo
 
 ## 📝 Fechas a tener en cuenta para exponer en la 2ª evaluación
-* Anteproyecto: **26 de enero de 2026**
+* Anteproyecto: **28 de enero de 2026**
 * Revisión (checkpoint): **16 de febrero de 2026**
 * Segunda Revisión (2º checkpoint): **02 de marzo de 2026**
 * Entrega de proyecto: **13 de marzo de 2026**
