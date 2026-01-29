@@ -28,9 +28,9 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [Video final](https://)
    
-* **03: TBD** - Nicolás García Conesa
+* **03: Sistema de Gestión de Incidencias IT para el centro educativo - Nicolás García Conesa
     - [Anteproyecto](https://)
-    - [Repositorio del proyecto](https://)
+    - [Repositorio del proyecto](https://github.com/Nikorgone98/Sistema-incidencias-IT)
     - [Checkpoint](https://)
     - [Video final](https://)
   
